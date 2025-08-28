@@ -2,7 +2,9 @@
 Loan approval prediction using SVM
 
 
-This project predicts whether a loan application will be approved using **Support Vector Machine (SVM)**.
+This project predicts whether a loan application will be approved or rejected based on applicant details such as income, credit history, loan amount, and other financial features. 
+We use a Support Vector Machine (SVM) classifier for accurate predictions. The model is trained on a cleaned and preprocessed dataset, and evaluation metrics like accuracy are provided.
+
 
 ## 📂 Project Structure
 - **data/** → dataset (LoanApprovalPrediction.csv)  
