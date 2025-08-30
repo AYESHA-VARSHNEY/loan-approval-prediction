@@ -28,3 +28,15 @@ Install using:
 ```bash
 pip install -r requirements.txt
 
+## 📊 Exploratory Data Analysis (EDA)
+
+### 1. Data Distribution
+![Data Distribution](screenshots/data_distribution.png)
+
+### 2. Correlation Heatmap
+![Correlation Heatmap](screenshots/correlation_heatmap.png)
+
+### 3. Gender vs Loan Status
+![Gender vs Loan Status](screenshots/gender_married_status.png)
+
+
