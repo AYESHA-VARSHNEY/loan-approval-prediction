@@ -28,6 +28,7 @@ Install using:
 ```bash
 pip install -r requirements.txt
 
+
 ## 📊 Exploratory Data Analysis (EDA)
 
 ### 1. Data Distribution
@@ -38,5 +39,6 @@ pip install -r requirements.txt
 
 ### 3. Gender vs Loan Status
 ![Gender vs Loan Status](screenshots/gender_married_status.png)
+
 
 
