@@ -25,7 +25,7 @@ We use a Support Vector Machine (SVM) classifier for accurate predictions. The m
 - scikit-learn  
 
 Install using:
-```bash
+bash
 pip install -r requirements.txt
 
 
